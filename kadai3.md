@@ -9,7 +9,7 @@ if(weather = 0)
 else if(weather = 1)
 :曇りです;
 else if(weather = 2)
-:雨ですです;
+:雨です;
 else
 :不明です;
 endif
