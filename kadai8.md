@@ -1,4 +1,4 @@
-'''uml
+```uml
 
 @startuml
 opt 検索
@@ -25,4 +25,4 @@ else 在庫なし
 end
 @enduml
 
-'''
+```
