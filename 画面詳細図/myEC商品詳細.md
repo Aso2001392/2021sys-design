@@ -1,7 +1,7 @@
 ### 画面詳細図
 ## トップページ
 ### プロトタイプは以下のリンク先
-[プロトタイプ](https://www.figma.com/file/p1pjGVsRkg1EWhH60j8G60/Untitled?node-id=1%3A2)
+[プロトタイプ](https://www.figma.com/file/p1pjGVsRkg1EWhH60j8G60/Untitled?node-id=4%3A41)
 *****
 
 <img src="../img/syousai1.png" width="400"> 
