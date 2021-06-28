@@ -4,6 +4,7 @@
 [プロトタイプ](https://www.figma.com/file/p1pjGVsRkg1EWhH60j8G60/Untitled?node-id=1%3A2)
 *****
 
+<img src="../img/Desktop - 1.png" width="400"> 
 　　
 *****
 補足：対応DBの列はDB設計後、〇を対応するテーブル・カラム名に差し替えること。
