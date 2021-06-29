@@ -54,6 +54,6 @@
 |price|int(11)||〇||
 |category_id|int(11)||〇|〇|
 |image|varchar(200)||〇||
-|detail|varchar(500)||〇||
+|detail|varchar(500)||||
 |del_flag|int(1)||||
 |reg_date|date||〇||
