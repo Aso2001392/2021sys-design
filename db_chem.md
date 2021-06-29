@@ -23,3 +23,17 @@
 |price|int(11)||〇||
 |num|int(11)||〇||
 
+
+### m_customers
+
+|属性名|型|PK|NN|FK|
+|:---|:---|:---|:---|:---|
+|customer_code|bigint(20)|〇|〇||
+|pass|varchar(50)|〇|〇|〇|
+|name|varchar(50)||〇||
+|address|varchar(100)||〇||
+|tel|varchar(20)||〇||
+|mail|varchar(100)||〇||
+|del_flag|int(1)||||
+|reg_date|date||〇||
+
