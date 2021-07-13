@@ -12,8 +12,6 @@
 |購入日|purchase_date|date||〇||
 |総額|total_price|int(11)||〇||
 
-
-
 ### 購入詳細テーブル(d_purchase_detail)
 |和名|属性名(カラム名)|型|PK|NN|FK|
 |:---|:---|:---|:---|:---|:---|
